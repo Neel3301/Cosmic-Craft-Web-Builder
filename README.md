@@ -35,9 +35,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 This Project is in progress 
 Web Page Ready -> 
 https://cosmic-craft-web-builder-git-main-neelc3301-outlookcom.vercel.app/
+
+
 https://cosmic-craft-web-builder-git-main-neelc3301-outlookcom.vercel.app/auth/login
+
+
 https://cosmic-craft-web-builder-git-main-neelc3301-outlookcom.vercel.app/auth/signup
+
+
 https://cosmic-craft-web-builder-git-main-neelc3301-outlookcom.vercel.app/studio/dashboard
+
+
 https://cosmic-craft-web-builder-git-main-neelc3301-outlookcom.vercel.app/studio/editor
 
 ## Deploy on Vercel
