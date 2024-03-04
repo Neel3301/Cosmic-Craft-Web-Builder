@@ -26,6 +26,7 @@ import {
   TextUnderlineIcon,
 } from "@/assets/Svgs";
 import { use_Editable_Text_Store } from "@/store/studio/Editable_Text_Store";
+import use_Model_Store_Studio from "@/store/studio/Model_Store_Studio";
 
 // store
 export const Text_Toolbox_Studio = () => {
